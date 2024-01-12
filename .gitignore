@@ -1,2 +1,5 @@
-
 *.docx
+*.bin
+*.pdf
+*.prob
+*.exe
